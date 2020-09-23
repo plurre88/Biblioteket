@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\Biblioteket\bin\Debug\Biblioteket.exe.config
+C:\Users\johan\source\repos\Biblioteket\bin\Debug\Biblioteket.exe
+C:\Users\johan\source\repos\Biblioteket\bin\Debug\Biblioteket.pdb
+C:\Users\johan\source\repos\Biblioteket\obj\Debug\Biblioteket.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\Biblioteket\obj\Debug\Biblioteket.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Biblioteket\obj\Debug\Biblioteket.exe
+C:\Users\johan\source\repos\Biblioteket\obj\Debug\Biblioteket.pdb
